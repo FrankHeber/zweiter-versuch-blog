@@ -15,6 +15,6 @@ Oh, and here's a great quote taken from
 >
 > (Jose Ortega y Gasset, span. Kulturphilosoph)
 
-Wahlrecht is very fun. Look at this diagram about Paragraph 6 of the Bundeswahlgesetz and it's references between its clauses and to other Paragraphs:
+Wahlrecht is very fun. Look at this diagram about paragraph 6 of the Bundeswahlgesetz and its references between its clauses and to other paragraphs:
 
 ![Diagram](./BWG_Para_6.png)
